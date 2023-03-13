@@ -1,0 +1,7 @@
+Routes Used
+
+    GET: https://pokeapi.co/api/v2/pokemon/1/
+    GET: https://pokeapi.co/api/v2/pokemon/2/
+    GET: https://pokeapi.co/api/v2/pokemon/3/
+    GET: https://pokeapi.co/api/v2/pokemon/4/
+    GET: https://pokeapi.co/api/v2/pokemon/5/
